@@ -71,7 +71,7 @@ function userInteractive() {
       Quit`).toLowerCase();
   }
 
-  alert("Thanks for playing with your pets!");
+  alert("Thanks for playing");
 }
 
 userInteractive();
