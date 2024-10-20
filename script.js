@@ -1,6 +1,6 @@
 var pet = {
   name: ['Jenac', 'Tom', 'Ela'],
-  type: ["cat", "cat", "cat"],
+  type: ["Cat", "cat", "cat"],
   age: [2, 6, 1],
   happiness: [90, 60, 50],
   hunger: [60, 30, 65],
