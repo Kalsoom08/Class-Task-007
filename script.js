@@ -1,5 +1,5 @@
 var pet = {
-  name: ['Jenac', 'Tom', 'Ela'],
+  name: ['Jenac', 'Tom', 'Elaa'],
   type: ["Cat", "cat", "cat"],
   age: [2, 6, 1],
   happiness: [90, 60, 50],
@@ -9,7 +9,7 @@ var pet = {
     var newHunger =  this.hunger[index];
     newHunger = newHunger - 20; 
     if (newHunger < 0) {
-      alert("Hunger level can't be below 0.");
+      alert("Hunger level can't be below 0");
     }
     alert(this.name[index] + " is fed! Hunger level: " + newHunger);
   },
